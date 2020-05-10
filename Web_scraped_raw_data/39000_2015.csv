@@ -1,0 +1,21 @@
+NAICS_Sector_Code,NAICS_Sector_Industry,NAICS_Sector,Annual_Establishments,Annual_Average_Employment,Total_Annual_Wages,Annual_Average_Weekly_Wage,Annual_Wages_per_Employee,Annual_Average_Employment_Location_Quotient,Total_Annual_Wages_Location_Quotient
+NAICS 11,"Agriculture, forestry, fishing and hunting","NAICS 11 Agriculture, forestry, fishing and hunting","1,522","15,919","513,534,395",620,"32,260",0.34,0.38
+NAICS 21,"Mining, quarrying, and oil and gas extraction","NAICS 21 Mining, quarrying, and oil and gas extraction",966,"13,799","944,704,212","1,317","68,460",0.49,0.37
+NAICS 22,Utilities,NAICS 22 Utilities,569,"19,200","1,788,586,585","1,791","93,156",0.92,0.95
+NAICS 23,Construction,NAICS 23 Construction,"22,620","200,338","11,196,176,522","1,075","55,887",0.83,0.91
+NAICS 31-33,Manufacturing,NAICS 31-33 Manufacturing,"15,493","685,975","39,916,640,571","1,119","58,190",1.48,1.50
+NAICS 42,Wholesale trade,NAICS 42 Wholesale trade,"23,515","235,680","15,706,373,321","1,282","66,643",1.06,1.09
+NAICS 44-45,Retail trade,NAICS 44-45 Retail trade,"35,699","571,003","15,379,879,225",518,"26,935",0.97,0.98
+NAICS 48-49,Transportation and warehousing,NAICS 48-49 Transportation and warehousing,"8,105","179,903","8,455,448,381",904,"47,000",1.04,1.10
+NAICS 51,Information,NAICS 51 Information,"4,205","71,605","4,644,401,890","1,247","64,862",0.69,0.53
+NAICS 52,Finance and insurance,NAICS 52 Finance and insurance,"17,415","213,346","15,394,916,553","1,388","72,160",0.99,0.80
+NAICS 53,Real estate and rental and leasing,NAICS 53 Real estate and rental and leasing,"10,507","62,501","2,784,905,559",857,"44,558",0.79,0.73
+NAICS 54,Professional and technical services,NAICS 54 Professional and technical services,"31,733","250,695","17,851,071,804","1,369","71,206",0.77,0.69
+NAICS 55,Management of companies and enterprises,NAICS 55 Management of companies and enterprises,"2,080","139,262","14,365,016,944","1,984","103,151",1.68,1.67
+NAICS 56,Administrative and waste services,NAICS 56 Administrative and waste services,"17,025","325,871","10,751,234,503",634,"32,992",0.98,0.98
+NAICS 61,Educational services,NAICS 61 Educational services,"3,092","94,793","3,315,328,273",673,"34,975",0.93,0.76
+NAICS 62,Health care and social assistance,NAICS 62 Health care and social assistance,"29,787","778,907","34,792,307,659",859,"44,668",1.12,1.19
+NAICS 71,"Arts, entertainment, and recreation","NAICS 71 Arts, entertainment, and recreation","3,845","77,098","2,448,011,689",611,"31,752",0.95,0.93
+NAICS 72,Accommodation and food services,NAICS 72 Accommodation and food services,"23,760","462,084","7,183,077,630",299,"15,545",0.95,0.85
+NAICS 81,"Other services, except public administration","NAICS 81 Other services, except public administration","23,580","153,092","4,572,945,469",574,"29,871",0.94,0.90
+NAICS 99,Unclassified,NAICS 99 Unclassified,913,"1,213","49,725,909",788,"41,000",0.13,0.12

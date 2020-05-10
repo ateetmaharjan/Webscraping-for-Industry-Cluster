@@ -1,0 +1,16 @@
+NAICS_Sector_Code,NAICS_Sector_Industry,NAICS_Sector,Annual_Establishments,Annual_Average_Employment,Total_Annual_Wages,Annual_Average_Weekly_Wage,Annual_Wages_per_Employee,Annual_Average_Employment_Location_Quotient,Total_Annual_Wages_Location_Quotient
+NAICS 22,Utilities,NAICS 22 Utilities,3,149,"13,393,888","1,729","89,892",6.47,8.49
+NAICS 23,Construction,NAICS 23 Construction,39,150,"5,801,138",742,"38,567",0.56,0.56
+NAICS 31-33,Manufacturing,NAICS 31-33 Manufacturing,33,718,"48,225,518","1,292","67,190",1.40,2.17
+NAICS 42,Wholesale trade,NAICS 42 Wholesale trade,33,232,"8,687,884",719,"37,381",0.95,0.72
+NAICS 44-45,Retail trade,NAICS 44-45 Retail trade,84,886,"21,385,532",464,"24,139",1.36,1.64
+NAICS 48-49,Transportation and warehousing,NAICS 48-49 Transportation and warehousing,13,42,"1,756,790",798,"41,499",0.22,0.27
+NAICS 51,Information,NAICS 51 Information,11,37,"2,229,571","1,167","60,669",0.32,0.30
+NAICS 52,Finance and insurance,NAICS 52 Finance and insurance,33,165,"6,128,326",715,"37,179",0.69,0.38
+NAICS 53,Real estate and rental and leasing,NAICS 53 Real estate and rental and leasing,14,37,"903,689",468,"24,315",0.43,0.28
+NAICS 54,Professional and technical services,NAICS 54 Professional and technical services,43,119,"5,315,048",859,"44,664",0.33,0.24
+NAICS 61,Educational services,NAICS 61 Educational services,6,5,"164,649",704,"36,589",0.04,0.05
+NAICS 62,Health care and social assistance,NAICS 62 Health care and social assistance,54,885,"23,622,876",513,"26,687",1.16,0.97
+NAICS 71,"Arts, entertainment, and recreation","NAICS 71 Arts, entertainment, and recreation",6,25,"394,496",301,"15,675",0.28,0.18
+NAICS 72,Accommodation and food services,NAICS 72 Accommodation and food services,32,571,"7,538,966",254,"13,197",1.06,1.07
+NAICS 81,"Other services, except public administration","NAICS 81 Other services, except public administration",38,109,"2,729,182",484,"25,154",0.61,0.64
