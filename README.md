@@ -18,7 +18,7 @@ QCEW Data Views. Bls.gov. https://data.bls.gov/cew/apps/data_views/data_views.ht
 
 The data was handled using excel. The scraped data were clean enough. Excel was used to calculate required values for Location Quotient (LQ), % change in LQ from 2015 -2018 and % change in employment from 2015-2018. Also, other numerical values were calculated using the formula below:
 
-Location Quotient = [Eri/Er] / [Eni/En]
+`Location Quotient = [Eri/Er] / [Eni/En]`
 
 i.e. proportion of employment of industry cluster for region divided by nation
 
